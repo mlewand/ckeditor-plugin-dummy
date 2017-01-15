@@ -1,0 +1,13 @@
+{
+  "name": "ckeditor-plugin-dummy",
+  "version": "1.0.0",
+  "description": "A dummy pluign created as a fixture for generator-ckeditor4 project integration tests.",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlewand/ckeditor-plugin-dummy.git"
+  },
+  "author": "Marek Lewandowski",
+  "license": "MIT",
+  "homepage": "https://github.com/mlewand/ckeditor-plugin-dummy#readme"
+}
