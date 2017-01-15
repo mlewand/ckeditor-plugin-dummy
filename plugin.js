@@ -3,7 +3,7 @@
 
 	CKEDITOR.plugins.add( 'dummy', {
 		init: function( editor ) {
-			console.log( 'Dummy plugin loaded!' );
+			console.log( 'Dummy plugin is loaded!' );
 		}
 	} );
 } )();
